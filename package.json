@@ -1,0 +1,26 @@
+{
+  "name": "i-am-a-unicorn",
+  "version": "0.0.1",
+  "description": "I'm a unicorn!",
+  "author": "Maik Ellerbrock",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "url": "git@github.com:ellerbrock/i-am-a-unicorn.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/ellerbrock/i-am-a-unicorn/issues"
+  },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "start": "node example",
+    "test": "echo \"Come on Unicorns make no mistakes! Tests are for the weak :)"
+  },
+  "keywords": [
+    "unicorn",
+    "unicorns"
+  ]
+}
