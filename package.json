@@ -17,7 +17,7 @@
   ],
   "scripts": {
     "start": "node example",
-    "test": "echo \"Come on Unicorns make no mistakes! Tests are for the weak :)"
+    "test": "echo \"Come on Unicorns make no mistakes! Tests are for the weak :)\" && exit 0"
   },
   "keywords": [
     "unicorn",
